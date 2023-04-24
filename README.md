@@ -5,4 +5,4 @@ Example:
 >Input 1 : 100
 >Input 2 : 3
 
-Output : (12100)₃
+>Output : (12100)₃
